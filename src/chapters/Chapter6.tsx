@@ -10,11 +10,15 @@ export function Chapter6() {
     <section className="pb-24">
       <ChapterHeader number="SIX" title="A Developed Nation with an Ancient Soul" subtitle="Conclusion" />
       <div className="max-w-5xl mx-auto px-6 md:px-12">
-        <ImageBlock src="https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=2074&auto=format&fit=crop" alt="Journey" caption="Transforming economic ambition into enduring civilizational greatness." />
+        <ImageBlock 
+          src="https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=2074&auto=format&fit=crop" 
+          alt="Journey" 
+          caption="Transforming economic ambition into enduring civilizational greatness." 
+        />
         
-        <SectionHeading number="6.1" title="Synthesizing the Journey" />
+        <SectionHeading number="6.1" title="Synthesizing the Journey Toward 2047" />
         <Paragraph dropcap>
-          Resilience provides the engine, cultural roots provide the anchor, local strength decentralizes growth, and compassion acts as the supreme binding agent.
+          The journey through this anthology is a deliberate mapping of the national soul. As we look toward the horizon of 2047, the blueprint for a Viksit Bharat emerges from the intersection of our four pillars. Resilience provides the engine; roots provide the anchor; local strength decentralizes growth; and compassion acts as the supreme binding agent.
         </Paragraph>
         
         <PullQuote>
@@ -22,19 +26,36 @@ export function Chapter6() {
         </PullQuote>
         
         <Paragraph>
-          We are no longer merely surviving; we are ascending. The victory of a Viksit Bharat will not be the eradication of our past, but the vindication of it.
+          Historically, our narrative was defined by survival. Today, we are ascending. The evolution of the Indian narrative is shifting from a tale of struggle to a saga of triumph. Yet, this victory is not the eradication of our past, but the vindication of it. The hardships documented by our master storytellers are the crucibles that forged our current demographic dividend.
         </Paragraph>
         
-        <ImageBlock src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2071&auto=format&fit=crop" alt="Youth" caption="The responsibility of the modern citizen is to actively embody these values." />
+        <ImageBlock 
+          src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2071&auto=format&fit=crop" 
+          alt="Youth" 
+          caption="The responsibility of the modern citizen is to actively embody these values." 
+        />
         
-        <SectionHeading number="6.2" title="Final Reflections" />
+        <SectionHeading number="6.2" title="The Ongoing Responsibility of the Citizen" />
         <Paragraph>
-          A nation's greatest and most enduring infrastructure is its character. Steel rusts and technologies become obsolete, but the ethical fortitude of a people survives.
+          The characters on the page—the selfless curd-seller, the resilient farmer, the empathetic child—are the genetic blueprints of the Indian character. Our responsibility is to embody these values in a digitized, hyper-connected world. Integrity, compassion, and empathy are infinitely scalable.
+        </Paragraph>
+
+        <Paragraph>
+          Development is a participatory, moral exercise. It is built daily in millions of microscopic interactions—when we choose ethical consumption over greed, and when we choose to protect our environment.
+        </Paragraph>
+
+        <SectionHeading number="6.3" title="Final Reflections: The Infrastructure of Character" />
+        <Paragraph>
+          A nation's greatest and most enduring infrastructure is its character. Steel rusts and technologies become obsolete, but the ethical fortitude of a people survives the erosion of time. If we lose our soul in the pursuit of wealth, we build a hollow empire.
         </Paragraph>
         
         <PullQuote>
           "In doing so, we will not merely develop a country; we will elevate humanity."
         </PullQuote>
+
+        <Paragraph>
+          We are uniquely positioned to offer a new paradigm: progress without the sacrifice of the human soul. Let us build a nation fiercely modern in its capabilities, yet unequivocally ancient in its wisdom.
+        </Paragraph>
       </div>
       
       <div className="w-full h-screen relative mt-32 flex flex-col items-center justify-center text-center overflow-hidden">

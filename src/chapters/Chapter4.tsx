@@ -8,13 +8,17 @@ import { StoryAnalysis } from '../components/StoryAnalysis';
 export function Chapter4() {
   return (
     <section>
-      <ChapterHeader number="FOUR" title="Local Hands, Global Strength" subtitle="Vocal for Local" />
+      <ChapterHeader number="FOUR" title="Local Hands, Global Strength" subtitle="Vocal for Local and Grassroots Empowerment" />
       <div className="max-w-5xl mx-auto px-6 md:px-12">
-        <ImageBlock src="https://images.unsplash.com/photo-1584824486509-112e4181ffe7?q=80&w=2070&auto=format&fit=crop" alt="Artisan" caption="True macro-economic strength must be cultivated from the soil up." />
+        <ImageBlock 
+          src="https://images.unsplash.com/photo-1584824486509-112e4181ffe7?q=80&w=2070&auto=format&fit=crop" 
+          alt="Artisan" 
+          caption="True macro-economic strength must be cultivated from the soil up." 
+        />
         
-        <SectionHeading number="4.1" title="Decentralized Growth" />
+        <SectionHeading number="4.1" title="Decentralized Growth: The Micro-Foundations" />
         <Paragraph dropcap>
-          The true economic engine of India lies in its decentralized workforce. When local hands are equipped with modern tools, they transform from mere laborers into micro-entrepreneurs.
+          The narrative of a rising global power is often dominated by massive conglomerates. However, the true economic engine of India lies in its decentralized workforce. To achieve Viksit Bharat, the philosophy of “Vocal for Local” must be elevated from a slogan to a structural reality.
         </Paragraph>
         
         <PullQuote>
@@ -23,19 +27,35 @@ export function Chapter4() {
         
         <StoryAnalysis title="The Talking Plough" author="Poonkunnam Varkey" />
         <Paragraph>
-          Modernization must not sever the emotional bond between the cultivator and the land. Absolute food security is a non-negotiable prerequisite for global strength.
+          In *The Talking Plough*, a simple agricultural implement is elevated into a silent partner in the sacred act of cultivating life. As Indian agriculture stands on the precipice of an AI and drone revolution, this tale reminds us that technological modernization must not sever the spiritual bond between the cultivator and the land.
         </Paragraph>
-        
-        <StoryAnalysis title="Bhadari" author="Laxminath Bezboroa" />
-        <ImageBlock src="https://images.unsplash.com/photo-1517594422361-5e18a40060f3?q=80&w=2070&auto=format&fit=crop" alt="Domestic" caption="Strong, stable families are the bedrock of a strong nation." />
         
         <Paragraph>
-          Economic prosperity cannot mask a fractured social fabric. We must prioritize social infrastructure to resolve domestic complexities healthily.
+          Absolute food security is a non-negotiable prerequisite for global strength. Empowering the agricultural sector is not charity; it is the most critical investment in our future. National security begins in the furrowed fields.
         </Paragraph>
+
+        <StoryAnalysis title="Bhadari" author="Laxminath Bezboroa" />
+        <ImageBlock 
+          src="https://images.unsplash.com/photo-1517594422361-5e18a40060f3?q=80&w=2070&auto=format&fit=crop" 
+          alt="Domestic" 
+          caption="Strong, stable families are the bedrock of a strong nation." 
+        />
         
+        <Paragraph>
+          Bezboroa’s *Bhadari* shifts focus to the unpolished reality of the rural domestic sphere. It illustrates that the emotional health of a country is tied to the stability of its households. Resolving domestic complexities through community support is vital for a mature, cohesive nation.
+        </Paragraph>
+
         <StoryAnalysis title="The Flood" author="Thakazhi Sivasankara Pillai" />
         <Paragraph>
-          A macro-economy isn't truly "developed" if its grassroots populations are left defenseless against nature's fury. Local hands must be empowered to protect the environment.
+          *The Flood* is a devastating portrayal of survival that highlights the vulnerability of the marginalized and nature when disaster strikes. A macro-economy cannot be considered “developed” if its grassroots populations are left defenseless against nature’s fury.
+        </Paragraph>
+        
+        <PullQuote>
+          "Local hands must be empowered not only to produce, but to protect."
+        </PullQuote>
+
+        <Paragraph>
+          Development must be linked to environmental stewardship. SUSTAINABILITY is essential to ensure that our march toward prosperity does not trigger the destruction of our own foundations.
         </Paragraph>
       </div>
     </section>
