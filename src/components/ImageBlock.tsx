@@ -16,7 +16,6 @@ export function ImageBlock({ src, alt, caption }: { src: string; alt: string; ca
           src={src} 
           alt={alt} 
           className="w-full h-auto object-cover max-h-[60vh]" 
-          referrerPolicy="no-referrer" 
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none"></div>
       </div>

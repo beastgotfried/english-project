@@ -63,7 +63,7 @@ export function Chapter6() {
           initial={{ scale: 1.2 }}
           whileInView={{ scale: 1 }}
           transition={{ duration: 2, ease: "easeOut" }}
-          className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1506461883276-594a12b11dc3?q=80&w=2070&auto=format&fit=crop')] bg-cover bg-center"
+          className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=2074&auto=format&fit=crop')] bg-cover bg-center"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[var(--color-charcoal)]/90 to-transparent"></div>
         <motion.div 

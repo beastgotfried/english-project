@@ -21,7 +21,7 @@ export function ChapterHeader({ number, title, subtitle }: { number: string; tit
           initial={{ scale: 0, opacity: 0, rotate: -10 }}
           whileInView={{ scale: 1, opacity: 1, rotate: 0 }}
           transition={{ duration: 0.6, type: "spring", bounce: 0.6 }}
-          className="nav-text uppercase tracking-[0.4em] text-[var(--color-saffron)] font-bold mb-8 text-sm md:text-xl bg-white/10 inline-block px-6 py-2 rounded-full backdrop-blur-sm"
+          className="nav-text uppercase tracking-[0.4em] text-[var(--color-marigold)] font-bold mb-8 text-sm md:text-xl theme-header inline-block px-6 py-2 rounded-full border transition-colors duration-400"
         >
           Chapter {number}
         </motion.h4>

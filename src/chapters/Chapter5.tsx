@@ -11,7 +11,7 @@ export function Chapter5() {
       <ChapterHeader number="FIVE" title="Compassion Creates Prosperity" subtitle="Sabka Saath, Sabka Vikas" />
       <div className="max-w-5xl mx-auto px-6 md:px-12">
         <ImageBlock 
-          src="https://images.unsplash.com/photo-1529156069898-49953eb1b5ce?q=80&w=2070&auto=format&fit=crop" 
+          src="https://images.unsplash.com/photo-1488521787920-7a48d80ef812?q=80&w=2070&auto=format&fit=crop" 
           alt="Community" 
           caption="Economic prosperity, if confined to a privileged few, is inherently fragile." 
         />
@@ -36,7 +36,7 @@ export function Chapter5() {
 
         <StoryAnalysis title="Brother Abdul Rahman" author="Amarlal Hingorani" />
         <ImageBlock 
-          src="https://images.unsplash.com/photo-1542838686-37ed7a928b04?q=80&w=2070&auto=format&fit=crop" 
+          src="https://images.unsplash.com/photo-1594818821917-c14820170bb6?q=80&w=2070&auto=format&fit=crop" 
           alt="Diversity" 
           caption="Compassion operates on the supreme universal truth that love is the highest law." 
         />

@@ -11,7 +11,7 @@ export function Chapter2() {
       <ChapterHeader number="TWO" title="Resilience That Builds a Nation" subtitle="The Spirit of Atmanirbharta" />
       <div className="max-w-5xl mx-auto px-6 md:px-12">
         <ImageBlock 
-          src="https://images.unsplash.com/photo-1532375810565-9e5c47000315?q=80&w=1974&auto=format&fit=crop" 
+          src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2074&auto=format&fit=crop" 
           alt="Resilience" 
           caption="Transforming demographic struggle into a demographic dividend." 
         />

@@ -36,7 +36,7 @@ export function Chapter3() {
 
         <StoryAnalysis title="The Nose-Jewel" author="C. Rajagopalachari" />
         <ImageBlock 
-          src="https://images.unsplash.com/photo-1549468057-5ce7af8bbbf7?q=80&w=2070&auto=format&fit=crop" 
+          src="https://images.unsplash.com/photo-1444508735994-592f679712a2?q=80&w=2070&auto=format&fit=crop" 
           alt="Sparrows" 
           caption="The blind pursuit of wealth poisons the mind and destabilizes the home." 
         />
